@@ -1,14 +1,27 @@
-- 👋 Hi, I’m @L3pu5
+# 🐰 L3Pu5 🐰 
 
 I'm interested in CyberSecurity, Penetration testing, and programming at various levels. 
 
 My side projects and passion projects involve writing compilers/interpreters, writting command line tools, and playing with data. 
 
-I'm currently learning 🦀 Rust 🦀 and becoming more familiar with :c
+---
+## My Projects & Repos
 
-![Languages](https://github-readme-stats.vercel.app/api?username=l3pu5&show_icons=true&theme=transparent)
+This is an unexhaustive list of what I do.
 
+|Microprocessor Drivers|Bot/API frameworks|CLI Tools|Algorithms|Languages|
+| --- | --- | --- | --- | --- |
+|[XPT2046](https://github.com/L3pu5/XPT2046_micropython)|[DiscordBot](https://github.com/L3pu5/dBunBot)|[Strings vs File](https://github.com/L3pu5/CleanPaws) |[AStar C#](https://github.com/L3pu5/CSharpAStar)|[BORK](https://github.com/L3pu5/BORK)|
+|[ILI9488](https://github.com/L3pu5/ILI9488_micropython)|[TwitchBot](https://github.com/L3pu5/TBunBot)|[CVE-API-Groper](https://github.com/L3pu5/CVEChomper)|
+|[c565 PreProcessor](https://github.com/L3pu5/c565_chunk)|
+|[png -> c565 bytes](https://github.com/L3pu5/png_to_c565_bytes)|
 
+---
+## Assorted statistics
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L3pu5&theme=transparent&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+![Contributions](https://github-readme-stats.vercel.app/api?username=l3pu5&show_icons=true&theme=transparent)
+---
 
 <!---
 L3pu5/L3pu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
