@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @L3pu5
-- 🌱 I’m currently learning ... C/Rust/Interpreters/JS/React.
-- 📫 How to reach me ... Lepus.
 
+I'm interested in CyberSecurity, Penetration testing, and programming at various levels. 
+
+My side projects and passion projects involve writing compilers/interpreters, writting command line tools, and playing with data. 
+
+I'm currently learning 🦀 Rust 🦀 and becoming more familiar with :c
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=L3pu5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
