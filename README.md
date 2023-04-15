@@ -6,7 +6,8 @@ My side projects and passion projects involve writing compilers/interpreters, wr
 
 I'm currently learning 🦀 Rust 🦀 and becoming more familiar with :c
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=L3pu5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api?username=l3pu5&show_icons=true&theme=transparent)
+
 
 
 <!---
