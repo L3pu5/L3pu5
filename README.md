@@ -9,11 +9,11 @@ My side projects and passion projects involve writing compilers/interpreters, wr
 
 This is an unexhaustive list of what I do.
 
-|Microprocessor Drivers|Bot/API frameworks|CLI Tools|Algorithms|Languages|
-| --- | --- | --- | --- | --- |
-|[XPT2046](https://github.com/L3pu5/XPT2046_micropython)|[DiscordBot](https://github.com/L3pu5/dBunBot)|[Strings vs File](https://github.com/L3pu5/CleanPaws) |[AStar C#](https://github.com/L3pu5/CSharpAStar)|[BORK](https://github.com/L3pu5/BORK)|
-|[ILI9488](https://github.com/L3pu5/ILI9488_micropython)|[TwitchBot](https://github.com/L3pu5/TBunBot)|[CVE-API-Groper](https://github.com/L3pu5/CVEChomper)|
-|[c565 PreProcessor](https://github.com/L3pu5/c565_chunk)|
+|Microprocessor Drivers|Bot/API frameworks|CLI Tools|Algorithms|Languages|Lexer|
+| --- | --- | --- | --- | --- | ---- |
+|[XPT2046](https://github.com/L3pu5/XPT2046_micropython)|[DiscordBot](https://github.com/L3pu5/dBunBot)|[Strings vs File](https://github.com/L3pu5/CleanPaws) |[AStar C#](https://github.com/L3pu5/CSharpAStar)|[BORK](https://github.com/L3pu5/BORK)|[Rust Tokenizer](https://github.com/L3pu5/bnuuy_scratch)|
+|[ILI9488](https://github.com/L3pu5/ILI9488_micropython)|[TwitchBot](https://github.com/L3pu5/TBunBot)|[CVE-API-Groper](https://github.com/L3pu5/CVEChomper)||[clox partial implementation](https://github.com/L3pu5/clox)|
+|[c565 PreProcessor](https://github.com/L3pu5/c565_chunk)||[CLI Hash/IP Checker](https://github.com/L3pu5/BunSearch)|
 |[png -> c565 bytes](https://github.com/L3pu5/png_to_c565_bytes)|
 
 ---
