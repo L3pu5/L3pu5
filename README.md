@@ -4,6 +4,11 @@ I'm interested in CyberSecurity, Penetration testing, and programming at various
 
 My side projects and passion projects involve writing compilers/interpreters, writting command line tools, and playing with data. 
 
+## Active Projects
+
+I am currently building a closed-source programming Language (Squeak) that compiles to x86 assembly for the Windows operating system.
+Using my language I am building a C2 agent (King) for integration with MythicC2.
+
 ---
 ## My Projects & Repos
 
