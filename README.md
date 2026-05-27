@@ -21,13 +21,6 @@ This is an unexhaustive list of what I do.
 |[c565 PreProcessor](https://github.com/L3pu5/c565_chunk)||[CLI Hash/IP Checker](https://github.com/L3pu5/BunSearch)||[Brainf*ck Interpreter](https://github.com/L3pu5/BrainFuck-Interpreter)|
 |[png -> c565 bytes](https://github.com/L3pu5/png_to_c565_bytes)|
 
----
-## Assorted statistics
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L3pu5&theme=transparent&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-![Contributions](https://github-readme-stats.vercel.app/api?username=l3pu5&show_icons=true&theme=transparent)
----
-
 <!---
 L3pu5/L3pu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
